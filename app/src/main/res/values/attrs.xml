@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <declare-styleable name="MyTitleBar">
+        <attr name="mtb_title" format="string"/>
+        <attr name="mtb_btn_text" format="string"/>
+    </declare-styleable>
+</resources>
